@@ -36,7 +36,6 @@ Add, complete, and delete your daily tasks — all in a clean, mobile-friendly U
 todo-list/
 │
 ├── index.html       # Main HTML file
-├── style.css        # Custom styles
 └── script.js        # JavaScript logic
 ```
 
@@ -57,7 +56,6 @@ todo-list/
 
 **Aditya Kumar Singh**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-singh-773804217)  
-🐙 [GitHub](https://github.com/Gen_x_coder)
 
 ---
 
